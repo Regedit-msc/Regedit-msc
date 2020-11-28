@@ -43,7 +43,7 @@
 
 ---
 
-# 📓 Latest Blog posts
+### 📓 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
