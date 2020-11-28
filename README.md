@@ -52,6 +52,8 @@
 
 [![Regedit's github stats](https://github-readme-stats.vercel.app/api?username=Regedit-msc&hide=stars,contribs,prs,issues&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Regedit-msc&layout=compact)](https://github.com/Regedit-msc/github-readme-stats)
+
 [website]: https://ayfolio.netlify.com
 [play]: https://regedit-msc.github.io/index
 [linkedin]: https://www.linkedin.com/in/efusanya-ayomide-692008192
