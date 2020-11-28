@@ -41,13 +41,16 @@
 <br />
 <br />
 
----
-
 ### 📓 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [DEPLOYING YOUR FIRST WEBSITE ON GITHUB USING GITHUB PAGES](https://regedit-msc.hashnode.dev/deploying-your-first-website-on-github-using-github-pages)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Regedit's github stats](https://github-readme-stats.vercel.app/api?username=Regedit-msc&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://ayfolio.netlify.com
 [play]: https://regedit-msc.github.io/index
