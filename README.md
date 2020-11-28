@@ -50,7 +50,7 @@
 
 ---
 
-[![Regedit's github stats](https://github-readme-stats.vercel.app/api?username=Regedit-msc&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Regedit's github stats](https://github-readme-stats.vercel.app/api?username=Regedit-msc&hide=stars,contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://ayfolio.netlify.com
 [play]: https://regedit-msc.github.io/index
