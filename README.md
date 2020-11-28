@@ -46,7 +46,7 @@
 ### 📓 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [DEPLOYING YOUR FIRST WEBSITE ON GITHUB USING GITHUB PAGES](https://regedit-msc.hashnode.dev/deploying-your-first-website-on-github-using-github-pages)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://ayfolio.netlify.com
