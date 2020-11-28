@@ -43,6 +43,12 @@
 
 ---
 
+# 📓 Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://ayfolio.netlify.com
 [play]: https://regedit-msc.github.io/index
 [linkedin]: https://www.linkedin.com/in/efusanya-ayomide-692008192
