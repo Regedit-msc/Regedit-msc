@@ -1,6 +1,12 @@
-### Hi there, I'm Emmanuel - aka [regedit][website] 👋
+### Hi there 👋.
 
-[![Website]](https://ayfolio.netlify.com)
+```dart
+String  Me = 'Emmanuel'
+print(' I\'m $Me 👋');
+```
+
+[WEBSITE](https://ayfolio.netlify.com)
+
 
 ## I'm a Student, Developer, and Engineer.
 
