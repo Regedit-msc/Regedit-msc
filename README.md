@@ -5,7 +5,7 @@ String  Me = 'Emmanuel'
 print(' I\'m $Me 👋');
 ```
 
-<a href ='https://ayfolio.netlify.com' style="color: green"> Know More ...</a>
+[Know more ...](https://ayfolio.netlify.com)
 
 
 ## I'm a Student, Developer, and Engineer.
