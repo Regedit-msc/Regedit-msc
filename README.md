@@ -1,7 +1,7 @@
 ### Hi there 👋.
 
 ```dart
-String  Me = 'Emmanuel'
+String  Me = 'Emmanuel';
 print(' I\'m $Me 👋');
 ```
 
