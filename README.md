@@ -5,7 +5,7 @@ String  Me = 'Emmanuel'
 print(' I\'m $Me 👋');
 ```
 
-[WEBSITE](https://ayfolio.netlify.com)
+[Know more ...](https://ayfolio.netlify.com)
 
 
 ## I'm a Student, Developer, and Engineer.
