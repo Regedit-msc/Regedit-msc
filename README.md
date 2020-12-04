@@ -4,13 +4,8 @@
 String  Me = 'Emmanuel'
 print(' I\'m $Me 👋');
 ```
-<style>
-a {
-    color: CurrentColor;
-    text-decoration: none;
-}
-</style>
-<a href ='https://ayfolio.netlify.com'> Know More ...</a>
+
+<a href ='https://ayfolio.netlify.com' style="color: green"> Know More ...</a>
 
 
 ## I'm a Student, Developer, and Engineer.
