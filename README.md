@@ -8,7 +8,7 @@ print(' I\'m $Me 👋');
 [Know more ...](https://ayfolio.netlify.com)
 
 ### OR 
-![AyQr](./qr.jpeg)
+![AyQr](qr.jpeg)
 
 ## I'm a Student, Developer, and Engineer.
 
