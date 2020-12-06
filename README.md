@@ -5,8 +5,10 @@ String  Me = 'Emmanuel';
 print(' I\'m $Me 👋');
 ```
 
-<img src="qr.jpeg">
+[Know more ...](https://ayfolio.netlify.com)
 
+### OR 
+![AyQr](./qr.jpeg)
 
 ## I'm a Student, Developer, and Engineer.
 
