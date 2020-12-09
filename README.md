@@ -55,6 +55,7 @@ print(' I\'m $Me 👋');
 ### 📓 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Class Vs Functional Components React 1](https://regedit-msc.hashnode.dev/class-vs-functional-components-react-1)
 - [DEPLOYING YOUR FIRST WEBSITE ON GITHUB USING GITHUB PAGES](https://regedit-msc.hashnode.dev/deploying-your-first-website-on-github-using-github-pages)
 <!-- BLOG-POST-LIST:END -->
 
