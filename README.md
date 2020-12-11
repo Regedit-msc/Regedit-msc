@@ -63,7 +63,7 @@ print(' I\'m $Me 👋');
 
 [![Regedit's github stats](https://github-readme-stats.vercel.app/api?username=Regedit-msc&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Regedit-msc&hide=css,html&layout=compact)](https://github.com/Regedit-msc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Regedit-msc&hide=css,html&layout=compact&theme=nightowl)](https://github.com/Regedit-msc/github-readme-stats)
 
 [website]: https://ayfolio.netlify.com
 [play]: https://regedit-msc.github.io/index
