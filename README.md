@@ -10,13 +10,12 @@ print(' I\'m $Me 👋');
 ### OR 
 ![AyQr](qr.jpeg)
 
-## I'm a Student, Developer, and Engineer.
+## I'm a Student, Developer and Engineer.
 
 - 🔭 I am open for any gigs any size of project💆
-- 🌱 I’m currently learning various stuff 🤓
-- 👯 I’m looking to collaborate on more projects 🐥
-- 🥅 2020 Goals: Expand my knowledge🌞
-- ⚡ Fun fact: I love playing basketball🏀
+- 🌱 I’m currently working various jobs🏌🏽
+- 👯 I’m looking for a stable remote job
+
 
 ### Connect with me:
 
