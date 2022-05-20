@@ -5,15 +5,10 @@ String  Me = 'Emmanuel';
 print(' I\'m $Me 👋');
 ```
 
-[Know more ...](https://ayfolio.netlify.com)
-
-### OR 
-![AyQr](qr.jpeg)
-
 ## I'm an Engineer.
 
 - 🔭 I am open to gigs. We know our stuff. Shoot me a mail.
-- 🌱 I’m currently working on LagGenie🏌🏽
+- 🌱 I’m currently working on LagGenie🏌 Keep an eye out UNILAG peeps.
 - 👯 I’m working and would only work remotely, feel free to whisk me away with a sweet offer😉, open to new opportunities and challenges👍.
 
 
@@ -53,17 +48,6 @@ print(' I\'m $Me 👋');
 <br />
 <br />
 <br/>
-
-
-
-### 📓 Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Class Vs Functional Components React 1](https://regedit-msc.hashnode.dev/class-vs-functional-components-react-1)
-- [DEPLOYING YOUR FIRST WEBSITE ON GITHUB USING GITHUB PAGES](https://regedit-msc.hashnode.dev/deploying-your-first-website-on-github-using-github-pages)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 [![Regedit's github stats](https://github-readme-stats.vercel.app/api?username=Regedit-msc&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
