@@ -1,8 +1,19 @@
 ### Hi there 👋.
 
 ```dart
-String  Me = 'Emmanuel';
-print("I'm $Me 👋");
+abstract class Human {
+ String intro();
+}
+class Mide implements Human {
+ final String _name;
+ Mide(this._name)
+ @override
+ String intro(){
+   return "I'm $_name 👋";
+ };
+}
+Mide me = Mide("Emmanuel");
+print(me.intro());
 ```
 
 ## I'm an Engineer.
