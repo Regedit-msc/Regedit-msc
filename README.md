@@ -6,7 +6,7 @@ abstract class Human {
 }
 class Mide implements Human {
  final String _name;
- Mide(this._name)
+ Mide(this._name);
  @override
  String intro(){
    return "I'm $_name 👋";
