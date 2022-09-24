@@ -15,15 +15,6 @@ class Mide implements Human {
 Mide me = Mide("Emmanuel");
 print(me.intro());
 ```
-
-## I'm an Engineer.
-
-- 🔭 I am open to gigs. We know our stuff. Shoot me a mail.
-- Learning VueJs😀
-- 🌱 I’m currently working on LagGenie🏌 Keep an eye out UNILAG peeps.
-- 👯 I’m working and would only work remotely, feel free to whisk me away with a sweet offer😉, open to new opportunities and challenges👍.
-
-
 ### Connect with me:
 
 [<img align="left" alt="ayfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
