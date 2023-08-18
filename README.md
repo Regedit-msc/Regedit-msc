@@ -12,7 +12,7 @@ class Mide implements Human {
    return "I'm $_name 👋";
  };
 }
-Mide me = Mide("Emmanuel ");
+Mide me = Mide("Emmanuel");
 print(me.intro());
 ```
 
