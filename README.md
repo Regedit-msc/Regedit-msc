@@ -12,9 +12,10 @@ class Mide implements Human {
    return "I'm $_name 👋";
  };
 }
-Mide me = Mide("Emmanuel");
+Mide me = Mide("Emmanuel ");
 print(me.intro());
 ```
+
 ### Connect with me:
 
 [<img align="left" alt="ayfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -51,7 +52,6 @@ print(me.intro());
 <br />
 <br />
 <br/>
-
 
 [website]: https://ayfolio.netlify.com
 [play]: https://regedit-msc.github.io/index
